@@ -10,15 +10,9 @@ const root = ReactDOM.createRoot(el);
 
 // create a component which is function and return jsx
 function App() {
-  //creating object
-  const style = {
-    color: "blue",
-    borderColor: "red",
-  };
   return (
     <div>
-      <h1>Input and props</h1>
-      <input min={5} max={20} type="number" style={style} />
+      <h1>Hi there</h1>
     </div>
   );
 }

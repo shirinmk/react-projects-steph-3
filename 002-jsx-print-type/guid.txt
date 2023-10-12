@@ -1,0 +1,1 @@
+// Shows how to print aligible type on screen 
