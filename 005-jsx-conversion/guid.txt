@@ -1,0 +1,2 @@
+// Learn jsx conversion
+// className, {number} , {object},camelCase, placeholder, true attribute alone

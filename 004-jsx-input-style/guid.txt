@@ -1,0 +1,3 @@
+// Must have type in order to show browser drop down and up menu number
+// You can pass object as a prop to html element 
+// but you can't show render object in screen
