@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(239, 228, 228);
+  display: flex;
+}
+.box {
+  border: 4px;
+  background-color: aqua;
+}

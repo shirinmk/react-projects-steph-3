@@ -1,0 +1,9 @@
+//bill ro barder, root ro dorost kon, component yaa derakht ro tosh bekar 
+// Attention we defind const but we can change it 
+const [counter, setCounter] = useState(0);
+  const handleClick = () => {
+    console.log("button clicked");
+    setCounter(counter + 1);
+  };
+
+  //
